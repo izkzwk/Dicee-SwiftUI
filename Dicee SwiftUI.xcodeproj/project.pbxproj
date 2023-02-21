@@ -51,9 +51,9 @@
 		97AE789329A577D100869793 /* Dicee SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				97AE789429A577D100869793 /* Dicee_SwiftUIApp.swift */,
-				97AE789629A577D100869793 /* ContentView.swift */,
 				97AE789829A577D100869793 /* Assets.xcassets */,
+				97AE789629A577D100869793 /* ContentView.swift */,
+				97AE789429A577D100869793 /* Dicee_SwiftUIApp.swift */,
 				97AE789A29A577D100869793 /* Preview Content */,
 			);
 			path = "Dicee SwiftUI";
